@@ -1,0 +1,30 @@
+[
+  {
+    "filename": "./musics/Britney Spears-Baby One More Time.mp3",
+    "duration": "03:31",
+    "title": "Baby One More Time",
+    "album": "...Baby One More Time(International Edition) (爱的初告白)",
+    "artist": "Britney Spears"
+  },
+  {
+    "filename": "./musics/Lady GaGa-Poker Face.mp3",
+    "duration": "03:57",
+    "title": "Poker Face",
+    "album": "The Fame(Revised Edition)",
+    "artist": "Lady GaGa"
+  },
+  {
+    "filename": "./musics/Mariah Carey-Without You.mp3",
+    "duration": "03:36",
+    "title": "Without You",
+    "album": "白羽毛之恋 真爱典藏情歌精选",
+    "artist": "Mariah Carey"
+  },
+  {
+    "filename": "./musics/走在冷风中.mp3",
+    "duration": "03:35",
+    "title": "走在冷风中 (Bonus Track)",
+    "album": "拥抱你",
+    "artist": "刘思涵"
+  }
+]
